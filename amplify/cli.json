@@ -1,13 +1,4 @@
 {
   "features": {
-    "auth": {
-      "enablecaseinsensitivity": true
-    },
-    "codegen": {
-      "useappsyncmodelgenplugin": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
-    }
   }
 }
