@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "plannerc617648f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
